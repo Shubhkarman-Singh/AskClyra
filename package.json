@@ -1,6 +1,6 @@
 {
-  "name": "nextchat",
-  "private": false,
+  "name": "askclyra",
+  "private": true,
   "license": "mit",
   "scripts": {
     "mask": "npx tsx app/masks/build.ts",
